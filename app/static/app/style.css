@@ -79,7 +79,7 @@ nav ul li a {
 }
 
 .book-item .btn {
-    margin: 5px 0; /* Reduced margin to minimize space between buttons */
+    margin: 5px 0; 
 }
 
 /* Button Styles */
@@ -193,14 +193,14 @@ nav ul li a {
 
 /* Footer Styles */
 footer {
-    background-color: #faf0f0; /* Light background for the footer */
+    background-color: #faf0f0; 
     padding: 66px;
     text-align: center;
-    border-top: 1px solid #ddd; /* Light border on top */
+    border-top: 1px solid #ddd; 
 }
 
 footer .about-us {
-    margin-top: 20px; /* Space between copyright and about us */
+    margin-top: 20px;
 }
 
 footer .about-us strong {
