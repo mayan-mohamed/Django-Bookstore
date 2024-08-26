@@ -56,8 +56,8 @@ def book_detail(request, bookId):
     
     # Fetch related details: publisher, category, and authors
     publisher = book.publisher
-    categories = book.bookscategories_set.all()  # Assuming the related name is the default lowercased model name
-    authors = book.booksauthor_set.all()  # Assuming the related name is the default lowercased model name
+    categories = book.bookscategories_set.all()
+    authors = book.booksauthor_set.all()
 
     context = {
         'book': book,

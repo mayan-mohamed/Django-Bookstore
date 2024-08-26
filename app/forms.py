@@ -1,5 +1,5 @@
 from django import forms
-from .models import Author, Publisher, Category, Books  # Use Books model here
+from .models import Author, Publisher, Category, Books 
 
 class AuthorForm(forms.ModelForm):
     class Meta:
@@ -18,7 +18,7 @@ class CategoryForm(forms.ModelForm):
 
 class BookForm(forms.ModelForm):
     class Meta:
-        model = Books  # Updated to Books model
+        model = Books 
         fields = ['title', 'price', 'language', 'fileFormat', 'fileSize', 'publisher']
 
 
