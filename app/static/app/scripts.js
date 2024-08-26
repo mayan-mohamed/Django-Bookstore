@@ -3,7 +3,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
     images.forEach(img => {
         img.addEventListener('error', function() {
-            this.src = this.dataset.placeholder; // Use the placeholder image
+            this.src = this.dataset.placeholder; // to handle image errors
         });
     });
 });
