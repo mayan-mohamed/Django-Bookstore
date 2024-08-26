@@ -75,7 +75,7 @@ nav ul li a {
     font-size: 1.2em;
     color: #333;
     margin: 0;
-    margin-bottom: 10px; /* Reduced margin to minimize space between title and buttons */
+    margin-bottom: 10px; 
 }
 
 .book-item .btn {
