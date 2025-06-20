@@ -1,6 +1,6 @@
 # Django Online Library 📚
 
-This project is a web-based online library system built with Django as part of an IT Documentation assignment. It allows users to register, browse, and purchase digital books through a clean and professional interface.
+This project is a web-based online library system built with Django. It allows users to register, browse, and purchase digital books through a clean and professional interface.
 
 ---
 
@@ -27,23 +27,3 @@ The Django Online Library provides the following key features:
 
 ---
 
-## 📁 Repository Purpose
-
-This repository demonstrates how GitHub can be used for IT documentation. All setup steps, usage instructions, and workflow descriptions will be documented through Markdown files and commits.
-
----
-
-
-## 🧠 Purpose of This Assignment
-
-This repository is used to:
-- Practice real-world IT documentation
-- Demonstrate GitHub as a documentation platform
-- Showcase Markdown-based instructions
-- Simulate a collaborative development workflow
-
----
-
-## 👨‍💻 Created By
-
-Mayan Mohamed – IT Documentation Course – 2025
